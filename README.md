@@ -1,3 +1,4 @@
+#QR Code Generator
 need to geneate a qr code in node js.
 
 please follow below instructions.
