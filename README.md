@@ -20,3 +20,9 @@ please follow below instructions.
         * inquirer
         * path
         * qr-image
+
+## 📂 Features
+- Validates input URL
+- Supports PNG, SVG, PDF
+- Saves QR Codes in `qrcodes` folder
+- Stores URLs in `URL.txt`
