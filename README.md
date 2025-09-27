@@ -1,4 +1,4 @@
-# QR Code Generator
+# 🚀 **QR Code Generator**
 need to geneate a qr code in node js.
 
 please follow below instructions.
@@ -26,3 +26,8 @@ please follow below instructions.
 - Supports PNG, SVG, PDF
 - Saves QR Codes in `qrcodes` folder
 - Stores URLs in `URL.txt`
+
+## ⚙️ Installation
+```bash
+npm install
+node qr-generator.mjs
